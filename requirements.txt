@@ -1,6 +1,6 @@
 streamlit
+pandas
+joblib
 scikit-learn
 fairlearn
-pandas
-numpy
-joblib
+requests
